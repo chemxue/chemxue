@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @chemxue
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Carbon Dioxide Electrochemical Reduction
 - 💞️ I’m looking to collaborate on Wuhan University
 - 📫 How to reach me China Mainland
